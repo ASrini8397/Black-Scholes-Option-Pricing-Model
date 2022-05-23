@@ -7,4 +7,4 @@ C0 (Call Option Price) and a basic assumption of Sigma (implied volatility), whi
 
 After implementing the Black-Scholes Model, the delta, gamma, theta, vega, and rho values were calculated and compared against the calculations from a
 library called py-volllib (The check is the value on the right side of the tuple and my calculated values are on the left)
-<img width="546" alt="Screenshot 2022-05-23 at 13 02 07" src="https://user-images.githubusercontent.com/98121213/169897051-b3c308a2-662f-4f88-917e-9912f4ebd8a4.png">
+<img width="719" alt="Screenshot 2022-05-23 at 13 15 54" src="https://user-images.githubusercontent.com/98121213/169898985-a7a3a955-f033-440c-9431-f517be57e0eb.png">
